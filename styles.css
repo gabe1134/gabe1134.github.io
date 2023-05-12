@@ -221,7 +221,16 @@ footer {
    
    header img#logoimg {
       width: 100%;
-	  
+	}  
+	 
+	#contentimg3 {
+   display: block;
+   height: 150px; 
+   width: 350px;
+   border: 2px solid rgb(191, 191,191);
+	margin: 0.25in auto;
+	
+
    }
    
    article {
